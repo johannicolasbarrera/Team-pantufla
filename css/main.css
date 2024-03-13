@@ -1,3 +1,12 @@
 body {
-    background-color: aqua;
+    background-color: rgba(199, 121, 131, 0.918);
+}
+
+.menu-link-social {
+color: brown;
+font-weight: bolder;
+}
+
+ul.menu-social {
+    border: 2px dotted 
 }
