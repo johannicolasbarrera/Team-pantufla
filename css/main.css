@@ -17,3 +17,16 @@ footer.footer {
     height: 300px;
     float: left;
 }
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-style: oblique;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
