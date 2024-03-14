@@ -10,3 +10,25 @@ font-weight: bolder;
 ul.menu-social {
     border: 2px dotted 
 }
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+     
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 30px;
+
+    border: 5px inset gray;
+    
+}
+
+.menu-item{
+    
+    align-items: center;
+    border: 2px dotted black;
+    border-style: inset;
+    border-radius: 18%;
+}
