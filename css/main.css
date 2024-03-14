@@ -1,4 +1,19 @@
 body {
-    background-color: aqua;
+    background-color: rgb(245, 245, 245);
 }
 
+h2 {
+    font-size: 30px;
+    margin: 5px;
+}
+
+footer.footer {
+    clear: left;
+}
+
+.img-pantufla {
+    float: left;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
