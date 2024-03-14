@@ -17,3 +17,10 @@ body{
     
 }
 
+.menu-item{
+
+    align-items: center;
+    border: 5px inset gray;
+    border-radius: 5px;
+    gap: 10px;
+}
