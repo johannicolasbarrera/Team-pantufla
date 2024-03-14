@@ -12,15 +12,14 @@ body{
 
     margin-top: 30px;
 
-    border: 2px dotted black;
-    border-style: inset;
+    border: 5px inset gray;
     
 }
 
 .menu-item{
-
+    
     align-items: center;
-    border: 5px inset gray;
-    border-radius: 5px;
-    gap: 10px;
+    border: 2px dotted black;
+    border-style: inset;
+    border-radius: 18%;
 }
