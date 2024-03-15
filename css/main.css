@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     background-color: rgba(247, 245, 245, 0.918);
 }
 
@@ -33,9 +32,6 @@ ul.menu-social {
     border-style: inset;
     border-radius: 18%;
 }
-=======
-    background-color: rgb(245, 245, 245);
-}
 
 h2 {
     font-size: 30px;
@@ -67,4 +63,3 @@ h3{
 img {
     float: right;
 }
->>>>>>> feature/main
